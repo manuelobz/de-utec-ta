@@ -1,1 +1,3 @@
-# de-utec-ta
+# DE UTEC
+- Introduccipon
+- Metodología
